@@ -13,7 +13,6 @@ if (!process.env.MONGO_URI) {
   process.exit(1);
 }
 
-app.use("/api/appointments", appointmentRoutes);
 
 mongoose.connect(process.env.MONGO_URI)
   .then(() => {
