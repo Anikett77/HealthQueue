@@ -1,15 +1,15 @@
-# Digital Patient Queue & Appointment Management System
+# Digital Patient Queue & Appointment Management System 
 
 A modern, mobile-first React + TailwindCSS frontend for a Government Hospital Digital Queue Management System.
 
 ## Features
 
 ### Patient Interface
-- **Landing Page**: Hero section with features and CTAs
+- **Landing Page**: Landing page with clear CTAs and feature highlights 
 - **Login/OTP Page**: Phone number authentication UI
 - **Book Appointment**: Multi-step appointment booking with hospital, department, doctor, date, and time selection
 - **Live Queue Status**: Real-time queue tracking with progress bar and estimated wait time
-- **My Appointments**: View and manage all appointments
+- **My Appointments**: view and manage bookings  
 
 ### Doctor Interface
 - **Doctor Dashboard**: 
